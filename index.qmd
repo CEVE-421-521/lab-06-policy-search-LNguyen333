@@ -1,6 +1,6 @@
 ---
 title: "Lab 6: Policy Search"
-author: "CEVE 421/521"
+author: "Leanh Nguyen CEVE 421/521"
 jupyter: julia-1.10
 date: 2024-03-01
 week: 7
